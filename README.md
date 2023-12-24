@@ -64,7 +64,8 @@ Follow these steps to get started with the project:
 
 ## Technologies Used
 
-<img src="git-img/logo/python.png" alt="Python" width="50" height="50">
-<img src="git-img/logo/pandas.png" alt="Pandas" width="70" height="50">
-<img src="git-img/logo/streamlit.png" alt="Streamlit" width="70" height="50">
-<img src="git-img/logo/scikit-learn.png" alt="scikit-learn" width="70" height="50">
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+- ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
