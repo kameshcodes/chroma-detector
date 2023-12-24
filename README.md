@@ -65,6 +65,6 @@ Follow these steps to get started with the project:
 ## Technologies Used
 
 <img src="git-img/logo/python.png" alt="Python" width="50" height="50">
-<img src="git-img/logo/pandas.png" alt="Pandas" width="50" height="50">
-<img src="git-img/logo/streamlit.png" alt="Streamlit" width="50" height="50">
-<img src="git-img/logo/scikit-learn.png" alt="scikit-learn" width="50" height="50">
+<img src="git-img/logo/pandas.png" alt="Pandas" width="70" height="50">
+<img src="git-img/logo/streamlit.png" alt="Streamlit" width="70" height="50">
+<img src="git-img/logo/scikit-learn.png" alt="scikit-learn" width="70" height="50">
