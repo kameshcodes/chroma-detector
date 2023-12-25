@@ -2,7 +2,8 @@
 
 Welcome to the Chroma Detector WebApp project! This application is designed to identify the top 5 dominant colors in an image using the KMeans algorithm implemented with scikit-learn in Python. With an intuitive user interface powered by Streamlit, analyzing the dominant colors in your images becomes seamless.
 
-![App Screenshot 1](git-img/aap-ss/ss-1.png)
+![App Screenshot 1](git-img/app-ss/ss-1.png)
+
 
 ## Overview
 
@@ -60,9 +61,11 @@ Follow these steps to get started with the project:
 
 3. Access the application via the provided URL and upload an image to analyze its dominant colors.
 
+
 ## Technologies Used
 
-- ![Python](git-img/logo/python.png)
-- ![Pandas](git-img/logo/pandas.png)
-- ![streamlit](git-img/logo/streamlit.png)
-- ![scikit-learn](git-img/logo/scikit-learn.png)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+- ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
+- ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
